@@ -2,7 +2,7 @@
 
 This code provides basic functionality for managing tasks in a to-do list:
 
-Adding tasks with priorities and due dates.
+Adding tasks with priorities and due dates.\n
 Removing tasks.
 Marking tasks as completed.
 Listing all tasks.
